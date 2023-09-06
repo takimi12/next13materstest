@@ -23,6 +23,9 @@ dependencies:
   eslint-config-next:
     specifier: ^12.1.0
     version: 12.3.4(eslint@7.32.0)(typescript@4.9.5)
+  google-fonts:
+    specifier: ^1.0.0
+    version: 1.0.0
   next:
     specifier: ^12.3.4
     version: 12.3.4(react-dom@17.0.2)(react@17.0.2)
@@ -1483,6 +1486,10 @@ packages:
       ignore: 5.2.4
       merge2: 1.4.1
       slash: 3.0.0
+
+  /google-fonts@1.0.0:
+    resolution: {integrity: sha512-i3zzI697L9WdmnaSqYB5KYN2fqDpjfpW+UTBdzhmte6JSvS2GOczZZtfocpWhwPwPqsEAH76/46DrsnD5W6BQQ==}
+    dev: false
 
   /gopd@1.0.1:
     resolution: {integrity: sha512-d65bNlIadxvpb/A2abVdlqKqV563juRnZ1Wtk6s1sIR8uNsXR70xqIzVqxVf1eTqDunwT2MkczEeaezCKTZhwA==}
